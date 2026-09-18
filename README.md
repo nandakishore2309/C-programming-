@@ -95,5 +95,3 @@ Contributions are always welcome! If you have a useful C function or optimizatio
 5. Open a Pull Request.
 
 ---
-
-*Would you like me to expand on a specific concept like recursion, pointers in functions, or pass-by-reference?*
